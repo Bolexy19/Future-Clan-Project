@@ -11,3 +11,4 @@ The primary source of data is Media csv this is an open source data that can be 
 - Ms Excel
 - Microsoft Power BI
 - Python
+- sql
