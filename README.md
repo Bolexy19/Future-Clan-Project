@@ -9,6 +9,6 @@ This data analysis project aims to generate insight on Social Media, Art and Ent
 ## Tools Used
 
 - Ms Excel [Download here](https://www.kaggle.com/datasets/robikscube/mr-beast-youtube-video-statistics)
-- Microsoft Power BI
+- Microsoft 
 - Python
 - sql
