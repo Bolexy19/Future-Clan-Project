@@ -28,5 +28,4 @@ Google Query Sheet
 
 SELECT * FROM TABLE 1
 Where condition = MET
-
-
+~~~
