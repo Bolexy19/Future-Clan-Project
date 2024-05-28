@@ -15,7 +15,8 @@ This data analysis project aims to generate insight on Social Media, Art and Ent
 - Python
 - sql
 
-![](Bobby.jpg)
+<img width="952" alt="screen (2)" src="https://github.com/Bolexy19/Future-Clan-Project/assets/171019299/77e133e8-4b9c-40b2-af95-84e50c242461">
+
 
 
 
