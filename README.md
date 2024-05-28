@@ -15,8 +15,7 @@ This data analysis project aims to generate insight on Social Media, Art and Ent
 - Python
 - sql
 
-
-
+![](Bobby.jpg)
 
 
 
