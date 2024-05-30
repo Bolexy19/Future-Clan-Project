@@ -2,7 +2,7 @@
 ---
 ## Documentation 
 
-This data analysis project aims to generate insight on Social Media, Art and Entertainment 
+This data analysis project aims to generate insight on Media, Art and Entertainment 
 
 ## Data Sources
 ---
