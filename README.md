@@ -10,17 +10,9 @@ This data analysis project aims to generate insight on Media, Art and Entertainm
 
 ## Tools Used
 
-- Ms Excel [Download here](https://www.kaggle.com/datasets/robikscube/mr-beast-youtube-video-statistics)
-- Microsoft 
-- Python
-- sql
-
-<img width="952" alt="screen (2)" src="https://github.com/Bolexy19/Future-Clan-Project/assets/171019299/77e133e8-4b9c-40b2-af95-84e50c242461">
-
-|Name | Age | Sex| Location|
-|--------| --------| --------| -------|
-|Temitope| 20| Female| Lagos|
-|Anuoluwapo| 22| Male| Ogun|
+- Ms Excel - Univarate analysis
+- Power Query - Data cleaning and preparation
+- PowerBI - Data Visualization
 
 
 ~~~
