@@ -30,4 +30,9 @@ This project provides valuable insights into the factors that drive success on Y
 3. Data cleaning and formating
 
 ## Exploratory Data Analysis 
-- What are the total youtube categroies 
+- What are the total youtube categroies
+- How are YouTubers distributed across different countries?
+- What are the video category
+- What are the average subscribers in the dataset
+- Who are the top 10 youtubers with the most views
+- 
