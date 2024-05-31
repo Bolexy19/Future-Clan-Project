@@ -47,14 +47,14 @@ EDA involved exploring the datasets to answer key questions such as:
 Included below is some of the code I worked in order to acheive accurate results in my analyis
 
 To merge our date columns into one, we used;
-F#
+```F#
 let
 #"Inserted Merged Column" = Table.AddColumn(#"Removed Errors", "Merged", each Text.Combine({Text.From([created_year], "en-US"), [created_month], Text.From([created_date], "en-US")}, "/"), type text)
 in #"Inserted Merged Column"
-
+```
 
 For our data cleaning in the Youtuber column, we used;
-F#
+```F#
 let
  #"Replaced Value" = Table.ReplaceValue(#"Changed Type","¿½ï¿½ï¿½","",Replacer.ReplaceText,{"Youtuber"}),
     #"Replaced Value1" = Table.ReplaceValue(#"Replaced Value","ï¿½ï¿½","",Replacer.ReplaceText,{"Youtuber"}),
@@ -82,7 +82,7 @@ let
     #"Replaced Value23" = Table.ReplaceValue(#"Replaced Value22","  I  ","",Replacer.ReplaceText,{"Youtuber"}),
     #"Trimmed Text" = Table.TransformColumns(#"Replaced Value23",{{"Youtuber", Text.Trim, type text}})
 in #"Trimmed Text"
-
+```
 
 ### Results/Findings
 The analysis results are summarized as follows;
