@@ -1,4 +1,4 @@
-# Famous Painting Exploratory Analysis
+# DEMYSTIFYING  SUCCESS: A DATA-DRIVEN EXPLORATION OF TOP YOUTUBE CREATORS
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -13,4 +13,4 @@
 
 ---
 
-This project aims to delve into the world of famous paintings through an exploratory data analysis approach. By uncovering hidden patterns and trends, we can gain a deeper understanding of artistic styles, historical influences, and the evolution of art itself.
+This project provides valuable insights into the factors that drive success on YouTube. By analyzing data on top creators and evaluating the impact of various factors, we can offer a comprehensive guide for aspiring YouTube creators. These insights will help them optimize their strategies to achieve greater success on the platform.
