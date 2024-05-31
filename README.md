@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- [Data Sources](#Global youtube statistics)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
