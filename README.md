@@ -1,21 +1,16 @@
-## DEMYSTIFYING  SUCCESS: A DATA-DRIVEN EXPLORATION OF TOP YOUTUBE CREATORS
-## Table of content 
+# Famous Painting Exploratory Analysis
 
-## Data Sources
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
+
+### Project Overview
+
 ---
-**The primary source of data is Media csv this is an open source data that can be freely downloaded from an open source.**
 
-## Tools Used
-
-- Ms Excel - Univarate analysis
-- Power Query - Data cleaning and preparation
-- PowerBI - Data Visualization
-
-
-~~~
-
-Google Query Sheet
-
-SELECT * FROM TABLE 1
-Where condition = MET
-~~~
+This project aims to delve into the world of famous paintings through an exploratory data analysis approach. By uncovering hidden patterns and trends, we can gain a deeper understanding of artistic styles, historical influences, and the evolution of art itself.
