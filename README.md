@@ -2,7 +2,7 @@
 ---
 ## Documentation 
 
-This data analysis project aims to generate insight on Media, Art and Entertainment 
+DEMYSTIFYING  SUCCESS: A DATA-DRIVEN EXPLORATION OF TOP YOUTUBE CREATORS
 
 ## Data Sources
 ---
