@@ -97,4 +97,3 @@ The analysis results are summarized as follows;
 ### Limitations
 - YouTube data can be inconsistent or inaccurate. Titles, descriptions, and categorization might be misleading or user-generated, impacting the accuracy of your conclusions.
 -  YouTube is constantly changing, with new features and trends emerging. Your analysis might need to be updated regularly to stay relevant.
-
